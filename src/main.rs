@@ -10,5 +10,5 @@ mod crossword;
 
 fn main() {
     set_once();
-    mount_to_body(move || view! { <App/> });
+    mount_to_body(move || view! { <App /> });
 }

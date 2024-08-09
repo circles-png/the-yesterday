@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       fontFamily: {
         'blackletter': ["Unifraktur Maguntia"],
+        'noto': ["Noto Sans Display"],
         'sans': ["PT Sans"],
         'serif': ["PT Serif"],
       }

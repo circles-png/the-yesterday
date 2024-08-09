@@ -13,6 +13,11 @@
 }
 
 @font-face {
+    font-family: "Noto Sans Display";
+    src: url("fonts/NotoSansDisplay.ttf") format("truetype");
+}
+
+@font-face {
     font-family: "PT Serif";
     src: url("fonts/PTSerif.ttf") format("truetype");
 }
